@@ -1,0 +1,4 @@
+.env
+__pycache__
+emnist_dataset
+__MACOSX
